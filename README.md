@@ -1,15 +1,15 @@
 # 1_Excel
 
-## **Project Parts:**
+## Project Parts:
 (1) Excel.xlsx\
 (2) Excel.xlsx\
 (3) Excel.xlsx\
 
-## **Project Description & Background:
+## Project Description & Background:
 Lorem Ipsum
 
-## **Observations:**
+## Observations:
 Lorem Ipsum
 
-## **Project Authors:**
+## Project Authors:
 Author - viktiger
